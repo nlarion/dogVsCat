@@ -1,0 +1,20 @@
+.col-sm-6 img{
+  width: 100%;
+  margin-top: 15px;
+
+}
+
+button {
+  display: inline;
+  float: right;
+}
+
+h2 {
+  display: inline;
+  color: lightblue;
+  cursor: pointer;
+}
+
+h2:hover {
+  text-decoration: underline;
+}
